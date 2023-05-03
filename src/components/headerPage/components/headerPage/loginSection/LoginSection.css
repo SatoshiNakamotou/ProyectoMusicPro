@@ -1,0 +1,25 @@
+.login-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 350px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.button-style {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: 2px solid #555;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #555;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.button-style:hover {
+  background-color: #555;
+  color: #fff;
+}

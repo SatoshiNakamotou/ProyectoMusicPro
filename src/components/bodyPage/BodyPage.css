@@ -1,0 +1,24 @@
+.container-MenuUp{
+    margin-top: 20px;
+}
+.container-body{
+    margin-top: 20px;
+}
+.container-ProductCards{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 50px;
+}
+
+.container-ProductosDestacados{
+    justify-content: left;
+}
+
+.Productos-Destacados{
+    margin-left: 20px;
+    text-align: left;
+}
+
+.container-Footer{
+    margin-top: 20px;
+}

@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 2rem;
+    background-color: #333;
+    color: #fff;
+    font-size: 14px;
+  }
+  
+  .footer-section {
+    flex-basis: 25%;
+  }
+  
+  .footer-section h4 {
+    margin-bottom: 1rem;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-section img {
+    max-width: 100%;
+  }

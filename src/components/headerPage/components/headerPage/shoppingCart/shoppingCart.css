@@ -1,0 +1,16 @@
+.shopping-cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .shopping-cart:hover {
+    background-color: #000;
+    color: #fff;
+  }

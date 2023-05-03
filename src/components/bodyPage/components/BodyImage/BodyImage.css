@@ -1,0 +1,14 @@
+.body-image-container {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 50px;
+  }
+  
+  .body-image {
+    width: 100%;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .body-image- .body-image {
+    transform: translateX(-100%);
+  }
